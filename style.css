@@ -21,19 +21,16 @@ body{
     background-color: #D9FF06;
     padding: 1.5vw 0;
     overflow: hidden;
-}
-
-#container{
     display: flex;
     align-items: center;
-    gap: 2vw
+    gap: 2vw;
 }
 
 #marque{
     display: flex;
     align-items: center;
     gap: 2vw;
-    /* transform: translateX(-100%); */
+    transform: translateX(-100%);
 }
 
 #marque h1{
